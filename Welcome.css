@@ -1,0 +1,66 @@
+body
+{
+	background-color: white;
+	margin: 0;
+	padding: 0;
+}
+
+
+.form-inline
+{
+	margin-left: 620px;
+}
+
+.navbar-nav
+{
+	margin-right: 30px;
+}
+
+.navbar
+{
+	background-color: #35495e! important;
+}
+
+.navbar .navbar-nav li a
+{
+	color:#D2FAFB! important;
+}
+
+.navbar .navbar-nav li a:hover
+{
+	color:#4baea0! important;
+}
+
+.p1
+{
+	height: 50px;
+  width: auto;
+  background-image:url(https://i.ibb.co/SKcv7WT/furn1.png);
+  padding: 100px;
+  padding-bottom: 380px;
+  background-size: cover;
+}
+
+h1
+{
+	color: white;
+	font-family: 'Poppins', sans-serif; 
+	text-align: center;
+	margin-top: 90px;
+    font-size: 62px;
+    font-weight: lighter;
+}
+
+h2
+{
+	text-align: center;
+	padding-top: 30px;
+	font-family: 'Cabin', sans-serif;
+	color: black;
+}
+
+.card
+{
+	width: 300px;
+	margin-left: 20px; 
+}

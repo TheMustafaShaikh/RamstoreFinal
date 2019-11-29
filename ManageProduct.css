@@ -1,0 +1,88 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	background-size: cover;
+}
+
+
+
+
+h2
+{
+	text-align: center;
+	font-family: 'Playfair Display', serif;
+}
+
+
+.navbar-nav
+{
+	margin-right: 100px;
+}
+
+.navbar
+{
+	background-color: #35495e! important;
+}
+
+.navbar .navbar-nav li a
+{
+	color:#D2FAFB! important;
+}
+
+.navbar .navbar-nav li a:hover
+{
+	color:#4baea0! important;
+}
+
+.dropdown-item
+{
+	background-color: #35495e;
+}
+
+
+.dropdown-menu
+{
+	background-color: #35495e;
+}
+
+.navbar-nav ml-auto
+{
+	margin-left: 30px;
+}
+
+.op1
+{
+	 
+	 margin-left: 20px;
+}
+
+.op2
+{
+	margin-left: 20px;
+}
+
+.op3
+{
+	margin-left: 20px;
+}
+
+.op4
+{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.form-inline
+{
+	margin-top: 10%;
+	margin-left: 38%;
+}
+
+.Size
+{
+	width: 80%;
+	margin-left: 7%;
+}
+
