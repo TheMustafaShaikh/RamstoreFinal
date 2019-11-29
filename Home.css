@@ -1,0 +1,70 @@
+
+body
+{
+    margin: 0;
+}
+
+.container
+{
+	float: left;
+
+	display: inline-block;
+
+}
+
+
+.p1
+{
+   height: 100vh;
+   background-image: url(https://i.ibb.co/Lgr8FcT/sofa-3.png);
+   background-size: cover;
+   width: 58%;
+   font-family: 'Exo 2', sans-serif;
+
+}
+
+#H21
+{
+   padding-top: 190px;
+   margin-left: 50px;
+   color:white;
+}
+
+#H22
+{
+   padding-top: 53px;
+   margin-left: 50px;
+   color:white;
+}
+
+.p2
+{
+	margin-left: 100px;
+	margin-top: 90px;
+}
+
+#H2p2
+{
+	size: 20px;
+}
+
+.b1
+{
+	margin-top: 60px;
+	margin-left: 105px;
+	border-radius: 15px;
+	width: 45%;
+}
+
+.b2
+{
+	margin-top: 30px;
+	margin-left: 105px;
+	border-radius: 15px;
+	width: 45%;
+}
+
+p
+{
+	margin-left: 34px;
+}

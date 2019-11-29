@@ -1,0 +1,93 @@
+body
+{
+	background-color: white;
+	margin: 0;
+	padding: 0;
+	color: #96d1c7;
+}
+
+
+.form-inline
+{
+	margin-left: 420px;
+}
+
+.navbar-nav
+{
+	margin-right: 100px;
+}
+
+.navbar
+{
+	background-color: #35495e! important;
+}
+
+.navbar .navbar-nav li a
+{
+	color:#D2FAFB! important;
+}
+
+.navbar .navbar-nav li a:hover
+{
+	color:#4baea0! important;
+}
+
+.dropdown-item
+{
+	background-color: #35495e;
+}
+
+
+.dropdown-menu
+{
+	background-color: #35495e;
+}
+
+.navbar-nav ml-auto
+{
+	margin-left: 30px;
+}
+
+.op1
+{
+	 
+	 margin-left: 20px;
+}
+
+.op2
+{
+	margin-left: 20px;
+}
+
+.op3
+{
+	margin-left: 20px;
+}
+
+.op4
+{
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
+
+h3
+{
+	text-align: center;
+	color: black;
+	margin-top: 100px;
+	font-family: 'Cabin', sans-serif;
+}
+
+.card-body
+{
+	color: black;
+}
+
+h4
+{
+   text-align: center;
+   color: black;
+}
+
